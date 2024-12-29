@@ -5,11 +5,11 @@
 
 
 
-<p align="center">- 🌱 I’m currently learning **React js**
+<p align="center">- 🌱 I’m currently learning **React js** </p>
 
-- 👨‍💻 All of my projects are available at [https://ismailnr-portfolio.netlify.app/](https://ismailnr-portfolio.netlify.app/)
+<p align="center">- 👨‍💻 All of my projects are available at [https://ismailnr-portfolio.netlify.app/](https://ismailnr-portfolio.netlify.app/) </p>
 
-- ⚡ Fun fact **I know HTML 💀**</p>
+<p align="center">- ⚡ Fun fact **I know HTML 💀** </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
