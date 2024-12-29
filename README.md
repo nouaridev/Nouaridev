@@ -22,6 +22,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nouaridev&show_icons=true&locale=en" alt="nouaridev" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nouaridev&show_icons=true&locale=en" alt="nouaridev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nouaridev&" alt="nouaridev" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nouaridev&" alt="nouaridev" /></p>
