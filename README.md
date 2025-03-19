@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nouari Ismail</h1>
 <h3 align="center">A passionate cs student from Algeria ...</h3>
-![me](assets/logo.png)
+![me](IMG_7361.JPG)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nouaridev&label=Profile%20views&color=0e75b6&style=flat" alt="nouaridev" /> </p>
 
