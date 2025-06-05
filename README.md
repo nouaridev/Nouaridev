@@ -7,7 +7,7 @@
 
 <p align="center">- 🌱 I’m currently learning **React js** </p>
 
-<p align="center">- 👨‍💻 All of my projects are available at (https://ismailnr-portfolio.netlify.app/) </p>
+
 
 
 <h3 align="center">Connect with me:</h3>
