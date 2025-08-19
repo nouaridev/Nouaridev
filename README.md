@@ -53,6 +53,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="40" alt="notion logo"  />
 </div>
 
+</br>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=nouaridev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
