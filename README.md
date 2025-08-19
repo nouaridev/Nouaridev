@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Ismail</h1>
+<img align="center" src="/cooltext489164905145946.png">
 
 ###
 
@@ -74,8 +74,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src=" Hi, I'm Ismail"  />
-</div>
+
 
 ###
