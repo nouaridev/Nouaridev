@@ -1,5 +1,5 @@
 <img align="center" src="/cooltext489166884172825.png"/><br>
-<img align="center" src="mern.png"/>
+<div align="center"><img align="center" src="mern.png"/></div>
 
 
 ###
