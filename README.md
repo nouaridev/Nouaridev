@@ -2,11 +2,11 @@
 
 ###
 
-<img align="left" height="205" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjltYTlyYnA5N3hxOThkZXlwMHkyeWM3bncycXUzd3BmanZpYXIxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
+<img align="center" height="205" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjltYTlyYnA5N3hxOThkZXlwMHkyeWM3bncycXUzd3BmanZpYXIxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
 
 ###
 
-<h3 align="left">🎓 Computer Science student  <br>💡 Exploring **Web Development & Databases**  <br>🌱 Currently diving into the **MERN Stack**  <br>📍 Algeria 🇩🇿</h3>
+<h3 align="center">🎓 Computer Science student  <br>💡 Exploring **Web Development & Databases**  <br>🌱 Currently diving into the **MERN Stack**  <br>📍 Algeria 🇩🇿</h3>
 
 ###
 
