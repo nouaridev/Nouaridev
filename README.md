@@ -1,4 +1,4 @@
-<div align='center'><img align="center" src="/cooltext489167243229301.png"/></div><br>
+<div align='center'><img align="center" src="/cooltext489167655712012 (1).png"/></div><br>
 <div align="center"><img align="center" src="mern.png"/></div>
 
 
@@ -53,11 +53,6 @@
   <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="40" alt="notion logo"  />
 </div>
 
-###
-
-<h2 align="center">Profile Statistics</h2>
-
-###
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=nouaridev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
