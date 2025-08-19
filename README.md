@@ -2,11 +2,10 @@
 
 ###
 
-<img align="center" height="205" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjltYTlyYnA5N3hxOThkZXlwMHkyeWM3bncycXUzd3BmanZpYXIxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
+
 
 ###
 
-<h3 align="center">🎓 Computer Science student  <br>💡 Exploring **Web Development & Databases**  <br>🌱 Currently diving into the **MERN Stack**  <br>📍 Algeria 🇩🇿</h3>
 
 ###
 
@@ -65,10 +64,10 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nouaridev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=nouaridev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nouaridev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=nouaridev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+    <img src="https://streak-stats.demolab.com?user=nouaridev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nouaridev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
