@@ -7,15 +7,16 @@
 
 
 ###
-<div style="display: flex , align-items: center">
-  <p align="center">i'm currently working on :</p>
+<p align="center">i'm currently working on :</p>
+<div align="center">
 <img align="center" src="./nrigram.png" width="200"/>
 </div>
 
 
 ###
-
-
+</br>
+</br>
+</br>
 
 ###
 
