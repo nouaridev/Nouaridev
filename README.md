@@ -7,8 +7,10 @@
 
 
 ###
-<p align="center">i'm currently working on :</p>
+<div style="display: flex , align-items: center">
+  <p align="center">i'm currently working on :</p>
 <img align="center" src="./nrigram.png" width="200"/>
+</div>
 
 
 ###
