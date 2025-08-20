@@ -10,7 +10,7 @@
 <p align="center">i'm currently working on </p>
 <div align="center">
 <img align="center" src="./nrigram.png" width="200"/>
-</div>
+</div></br>
 <p align="center">a full stack real time chat platform</p>
 
 
