@@ -8,7 +8,7 @@
 
 ###
 <h2 align="center">i'm currently working on :</h2>
-<div align="center"><img align="center" src="./nrigram.png"/></div>
+<div align="center"><img align="center" src="./Capture.PNG" width="200"/></div>
 
 
 ###
