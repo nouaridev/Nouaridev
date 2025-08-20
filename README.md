@@ -11,9 +11,11 @@
 <div align="center">
 <img align="center" src="./nrigram.png" width="200"/>
 </div>
+<p align="center">a full stack real time chat platform</p>
 
 
 ###
+</br>
 </br>
 </br>
 </br>
